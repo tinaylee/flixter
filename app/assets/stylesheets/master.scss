@@ -1,1 +1,16 @@
 @import "bootstrap";
+
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+
+.navbar {
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 200;
+  box-shadow: 0px 1px 3px #2a2a2a;
+  background: image_url('rebel.png');
+}
+
+.navbar-inverse a.navbar-brand {
+  font-family: 'Monoton', cursive;
+  font-size: 25px;
+  color: white;
+}

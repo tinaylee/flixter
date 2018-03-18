@@ -1,6 +1,7 @@
 @import "bootstrap";
 
 @import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans');
 
 .navbar {
   font-family: "Helvetica Neue", Helvetica;
@@ -50,4 +51,9 @@ h1, h2, h3, h4, h5, .navbar {
 
 .btn {
   border-radius: 0;
+}
+
+body {
+  background-image: image_url('bg.png');
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 }

@@ -66,3 +66,15 @@ gem 'simple_form'
 
 #Devise for user authentication
 gem 'devise'
+
+#Carrierwave for image upload
+gem 'carrierwave', '~> 1.0'
+
+#figaro gem for AWS
+gem "figaro"
+
+#fog gem for AWS
+gem "fog-aws"
+
+#imagemagick to resize images
+gem "mini_magick"

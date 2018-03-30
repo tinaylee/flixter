@@ -78,3 +78,6 @@ gem "fog-aws"
 
 #imagemagick to resize images
 gem "mini_magick"
+
+#carrierwave-aws for video upload to AWS
+gem 'carrierwave-aws'

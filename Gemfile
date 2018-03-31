@@ -81,3 +81,6 @@ gem "mini_magick"
 
 #carrierwave-aws for video upload to AWS
 gem 'carrierwave-aws'
+
+#stripe for credit card payments
+gem 'stripe'

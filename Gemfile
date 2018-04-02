@@ -84,3 +84,6 @@ gem 'carrierwave-aws'
 
 #stripe for credit card payments
 gem 'stripe'
+
+#ranked model for section re-ordering
+gem 'ranked-model'

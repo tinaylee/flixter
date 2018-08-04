@@ -87,3 +87,6 @@ gem 'stripe'
 
 #ranked model for section re-ordering
 gem 'ranked-model'
+
+#jQuery UI 
+gem 'jquery-ui-rails'

@@ -90,3 +90,6 @@ gem 'ranked-model'
 
 #jQuery UI 
 gem 'jquery-ui-rails'
+
+#fontawesome
+gem "font-awesome-rails"

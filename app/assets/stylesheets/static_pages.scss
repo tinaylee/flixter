@@ -1,3 +1,24 @@
-// Place all the styles related to the static_pages controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.pic-tina {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 5px;
+  margin: 0px 10px 10px 10px;
+  
+}
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica;
+}
+
+h3 {
+  font-family: "Helvetica Neue", Helvetica;
+  margin-bottom: 10px;
+}
+
+p {
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 200;
+  margin-left: 10px;
+}

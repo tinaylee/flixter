@@ -15,6 +15,11 @@ class Instructor::SectionsController < ApplicationController
     render plain: 'updated!'
   end
 
+  def destroy
+    current_section.destroy
+    redirect_to instructor_course_path(current_course)
+  end
+
 
 
   private
